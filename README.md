@@ -1,5 +1,7 @@
 # My i3 wm workflow
+![alt text](https://github.com/FGXdevOfficial/i3/blob/master/images/full.png?raw=true)
 
+# Installation:
   To install the dependencies run the dependencies.sh script by doing:
   ``chmod +x dependencies.sh``
   ``sh dependencies.sh``
