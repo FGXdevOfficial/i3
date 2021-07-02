@@ -1,28 +1,27 @@
-# My i3 wm workflow
-![alt text](https://github.com/FGXdevOfficial/i3/blob/master/images/full.png?raw=true)
+# My i3 config files
+<img src="https://files.malwarepad.com/.workspace.png">
+Yes I have returned with an updated config. Decided to re-write that messy one I made a year ago. Tell me your thoughts.
 
-# Installation:
-  To install the dependencies run the dependencies.sh script by doing:
-  ``chmod +x dependencies.sh``
-  ``sh dependencies.sh``
-  
-  Note that you don't have Polybar and i3-gaps
+## What does this repository contain?
+- i3 config files
+- Polybar config files
 
-  To install just run the install.sh script by doing:
-  ``chmod +x install.sh``
-  ``sh install.sh``
+## How to install
+Well, just copy the config files to their appropriate directories. 
 
-# What is here?
-  Well the following:
-  - i3-gaps config
-  - Polybar config
-  - Dependencies installer
-  - Install script
+``~/.config/i3/*`` for i3
+``~/.config/polybar/*`` for polybar
 
-# Contribute?
-  Well, please don't make any pull requests as this is my primary window
-  manager. I don't want any changes so for now all pull requests will be
-  ignored.
+## Contribute?
+Nope. This is my primary window manager on my linux box, so please do not make any pull requests or issues. They will be ignored or closed immediately. 
 
-# Forking?
-  Absolutelly! What open source project would this be without forking? :>
+## Forking?
+Absolutelly! What open source project would this be without forking? :>
+
+## Socials
+While you're here and you've read everything go visit my YouTube and my website:
+
+<a href="https://links.malwarepad.com/youtube">YouTube</a>
+<a href="https://malwarepad.com">Website</a>
+
+### Wish you to have a nice day! 
