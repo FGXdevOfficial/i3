@@ -10,6 +10,7 @@ Yes I have returned with an updated config. Decided to re-write that messy one I
 Well, just copy the config files to their appropriate directories. 
 
 ``~/.config/i3/*`` for i3
+
 ``~/.config/polybar/*`` for polybar
 
 ## Contribute?
